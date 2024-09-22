@@ -6,9 +6,9 @@ Welcome to the Workpiece Sorting Station repository! 🎉
 This project demonstrates a fully automated system designed to sort workpieces based on their color and material (black or pink = plastic, metal = metal). The system is programmed using TIA Portal Version 17 and controlled through an intuitive HMI interface.
 
 ## 🔧 Hardware
-  S1500 (CPU 1512C-1 PN)
-  HMI (TP700 Comfort)
-  Scalance
+ - S1500 (CPU 1512C-1 PN)
+ - HMI (TP700 Comfort)
+ - Scalance
 
 ## 🔧 Technologies Used
  - PLC Programming: TIA Portal V17
